@@ -1,0 +1,5 @@
+my_tup = ('A','R','F','A','N') #huruf didalam Tuple
+for huruf in my_tup: #membaca perhuruf yg ada dalam tuple
+  a = huruf #menyimpan huruf yg dibaca kedalam variable a
+  teks += a #menyimpan dan menambahkan setiap huruf yg dibaca
+print(teks) #menampilkan huruf2 yg sudah dikumpulkan dan menjadi string
